@@ -1,0 +1,230 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": []
+            },
+            "id": "0",
+            "properties": {
+                "Area_km2": 0.13705383365693935,
+                "Class_ID": 0,
+                "Class_Name": "Built-up",
+                "Percent_%": 1.7313880731614213,
+                "Year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": []
+            },
+            "id": "1",
+            "properties": {
+                "Area_km2": 1.0104676146285754,
+                "Class_ID": 1,
+                "Class_Name": "Agriculture",
+                "Percent_%": 12.765141474721563,
+                "Year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": []
+            },
+            "id": "2",
+            "properties": {
+                "Area_km2": 2.810468303824377,
+                "Class_ID": 2,
+                "Class_Name": "Vegetation",
+                "Percent_%": 35.50437934789837,
+                "Year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": []
+            },
+            "id": "3",
+            "properties": {
+                "Area_km2": 0.7016953157798604,
+                "Class_ID": 3,
+                "Class_Name": "Glacier",
+                "Percent_%": 8.864450328150117,
+                "Year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": []
+            },
+            "id": "4",
+            "properties": {
+                "Area_km2": 3.2580165851490723,
+                "Class_ID": 4,
+                "Class_Name": "Barren",
+                "Percent_%": 41.158214310217474,
+                "Year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": []
+            },
+            "id": "5",
+            "properties": {
+                "Area_km2": 0.18126888642554198,
+                "Class_ID": 0,
+                "Class_Name": "Built-up",
+                "Percent_%": 2.2899526384502917,
+                "Year": 2020
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": []
+            },
+            "id": "6",
+            "properties": {
+                "Area_km2": 1.4409251578876543,
+                "Class_ID": 1,
+                "Class_Name": "Agriculture",
+                "Percent_%": 18.203070765095706,
+                "Year": 2020
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": []
+            },
+            "id": "7",
+            "properties": {
+                "Area_km2": 2.287462998100716,
+                "Class_ID": 2,
+                "Class_Name": "Vegetation",
+                "Percent_%": 28.897302957779157,
+                "Year": 2020
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": []
+            },
+            "id": "8",
+            "properties": {
+                "Area_km2": 0.6663091799194323,
+                "Class_ID": 3,
+                "Class_Name": "Glacier",
+                "Percent_%": 8.41742063223243,
+                "Year": 2020
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": []
+            },
+            "id": "9",
+            "properties": {
+                "Area_km2": 3.3417354307054663,
+                "Class_ID": 4,
+                "Class_Name": "Barren",
+                "Percent_%": 42.21582654059118,
+                "Year": 2020
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": []
+            },
+            "id": "10",
+            "properties": {
+                "Area_km2": 0.14348965650132128,
+                "Class_ID": 0,
+                "Class_Name": "Built-up",
+                "Percent_%": 1.8126912123471124,
+                "Year": 2024
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": []
+            },
+            "id": "11",
+            "properties": {
+                "Area_km2": 1.0439742890354546,
+                "Class_ID": 1,
+                "Class_Name": "Agriculture",
+                "Percent_%": 13.18842811247142,
+                "Year": 2024
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": []
+            },
+            "id": "12",
+            "properties": {
+                "Area_km2": 2.720336257057094,
+                "Class_ID": 2,
+                "Class_Name": "Vegetation",
+                "Percent_%": 34.365749755287915,
+                "Year": 2024
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": []
+            },
+            "id": "13",
+            "properties": {
+                "Area_km2": 0.7088823364296089,
+                "Class_ID": 3,
+                "Class_Name": "Glacier",
+                "Percent_%": 8.955243277916752,
+                "Year": 2024
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": []
+            },
+            "id": "14",
+            "properties": {
+                "Area_km2": 3.301019114015343,
+                "Class_ID": 4,
+                "Class_Name": "Barren",
+                "Percent_%": 41.701461176125704,
+                "Year": 2024
+            }
+        }
+    ]
+}
